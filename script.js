@@ -85,7 +85,7 @@ function clearStatusClass(element) {
 
 const questions = [
     {
-        question: "What does Wakv mean?",
+        question: "What does Wakv (Wah-kuh) mean?",
         answers: [
             {text: 'Cow', correct: true},
             {text: 'Bird', correct: false},
@@ -96,7 +96,7 @@ const questions = [
         ]
     }, 
     {
-        question: "What does Wotko mean?",
+        question: "What does Wotko (Woot-Ko) mean?",
         answers: [
             {text: 'Racoon', correct: true},
             {text: 'Bird', correct: false},
@@ -105,7 +105,7 @@ const questions = [
         ]
     }, 
     {
-        question: "What does Wasko mean?",
+        question: "What does Wasko (Wah-Sko) mean?",
         answers: [
             {text: 'Giraffe', correct: false},
             {text: 'Bird', correct: false},
@@ -116,10 +116,10 @@ const questions = [
     {
         question: "How do you say Hawk??",
         answers: [
-            {text: 'Cesse', correct: false},
-            {text: 'Efv', correct: false},
-            {text: 'Penwv', correct: false},
-            {text: 'Ayo', correct: true},
+            {text: 'Cesse: (Chih-See)', correct: false},
+            {text: 'Efv: (Eh-Fuh', correct: false},
+            {text: 'Penwv: (Ben-Wuh)', correct: false},
+            {text: 'Ayo: (Aye-Yo', correct: true},
         ]
     }, 
 ]
