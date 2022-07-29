@@ -86,3 +86,8 @@ body.wrong {
 .hide {
     display: none;
 }
+
+.img {
+    max-height: 100px;
+    max-width: 100px;
+}
