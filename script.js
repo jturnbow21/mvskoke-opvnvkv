@@ -114,12 +114,21 @@ const questions = [
         ]
     }, 
     {
-        question: "How do you say Hawk??",
+        question: "How do you say Hawk?",
         answers: [
             {text: 'Cesse: (Chih-See)', correct: false},
-            {text: 'Efv: (Eh-Fuh', correct: false},
+            {text: 'Efv: (Eh-Fuh)', correct: false},
             {text: 'Penwv: (Ben-Wuh)', correct: false},
-            {text: 'Ayo: (Aye-Yo', correct: true},
+            {text: 'Ayo: (Aye-Yo)', correct: true},
+        ]
+    }, 
+    {
+        question: "How do you say Bear?",
+        answers: [
+            {text: 'Cesse: (Chih-See)', correct: false},
+            {text: 'Efv: (Eh-Fuh)', correct: false},
+            {text: 'Wotko: (Woot-Ko) ', correct: false},
+            {text: 'Nokose: (No-Koe-See)', correct: true},
         ]
     }, 
 ]
